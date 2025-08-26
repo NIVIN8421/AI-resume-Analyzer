@@ -198,7 +198,7 @@ Start the application using Streamlit:
 ### 🔹 New Login Credentials:
    - **Username:**
 ```python3
-admin@example.com
+admin@gmail.com
 ```
    - **Password:**
 ```python3
@@ -207,5 +207,6 @@ admin123
 
 ### 🔹 Admin Panel Access:
    - The **Admin Section** will be visible **only after login**, right below the **Dashboard** section.
+
 
 
